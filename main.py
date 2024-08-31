@@ -1,5 +1,7 @@
 import math
 
+# LAGRANGE ERROR BOUND
+# class with functions to calculate Lagrange Error Bound and print out the equation in a neat fashion
 class lagrangeErrorBound:
   def __init__(self, max, approximate, center, n):
     self.m = max
