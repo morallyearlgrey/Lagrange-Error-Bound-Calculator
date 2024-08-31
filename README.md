@@ -9,4 +9,4 @@ Implemented in Python, this Lagrange error bound calculator calculates the error
 - Showcases specific examples of implementation
 
 **Instructions:**
-1) Does not require any input and only needs to be ran 
+1) Does not require any input
